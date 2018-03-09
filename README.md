@@ -36,6 +36,7 @@ Since the program is able to recognize the 'tokens' of a sentence, I keept only 
 - NNP: Proper noun
 - NNS: Noun, plural
 - NN: Noun, singular or mass
+
 This choise was made to have 'clean' words to build the graph (no 'as', '...', 'i', 'a', ...)
 The statistics is visible through a graph.
 
